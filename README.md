@@ -1,4 +1,4 @@
-# hastane-randevusistemi
+# Hastane Randevu Sistemi
 
 1. Temel Tanım
 Bu proje, hastaların uygun doktorlardan randevu almasını ve bu randevuları yönetmesini sağlayan bir sistemdir. Python programlama dili ve tkinter arayüz kütüphanesi kullanılarak geliştirilecektir.
